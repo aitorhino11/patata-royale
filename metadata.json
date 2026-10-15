@@ -1,0 +1,6 @@
+{
+  "name": "Patata Caliente Royale",
+  "description": "Juego multijugador extremo de patata caliente para 10 jugadores con ritmo acelerado, eliminación intensa, efectos visuales vibrantes, audio envolvente y tienda de cosméticos.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
